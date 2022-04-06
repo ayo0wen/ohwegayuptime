@@ -15,6 +15,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.ohwen.gay
   # baseUrl: /your-repo-name
+  theme: ocean
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "Welcome to the uptime of https://ohwen.gay"
@@ -27,3 +28,10 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+i18n:
+ footer: Found an issue with any of my services? Contact me on Discord **ohwen#0106**
+ activeIncidents: ⚠️ Active Incidents
+ allSystemsOperational: All Systems Operational
+ liveStatus: 🔴 Live Status Monitor
+ pastIncidents: ✅ Past Incidents
