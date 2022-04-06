@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.ohwen.gay",
     "slug": "main-site",
     "status": "up",
-    "uptime": "0.77%",
-    "uptimeDay": "0.77%",
-    "uptimeWeek": "0.77%",
-    "uptimeMonth": "0.77%",
-    "uptimeYear": "0.77%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 458,
     "timeDay": 458,
     "timeWeek": 458,
     "timeMonth": 458,
     "timeYear": 458,
-    "dailyMinutesDown": {
-      "2022-04-06": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cookie Clicker Host",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/cookie.ohwen.gay",
     "slug": "cookie-clicker-host",
     "status": "up",
-    "uptime": "0.64%",
-    "uptimeDay": "0.64%",
-    "uptimeWeek": "0.64%",
-    "uptimeMonth": "0.64%",
-    "uptimeYear": "0.64%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 198,
     "timeDay": 198,
     "timeWeek": 198,
     "timeMonth": 198,
     "timeYear": 198,
-    "dailyMinutesDown": {
-      "2022-04-06": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "2nd Host",
