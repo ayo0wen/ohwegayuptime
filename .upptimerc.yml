@@ -16,8 +16,8 @@ status-website:
   cname: status.ohwen.gay
   # baseUrl: /your-repo-name
   theme: ocean
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://cdn.discordapp.com/attachments/960953474986696716/961349085896531968/0.png
+  name: ohwen.gay Status
   introTitle: "Welcome to the uptime of https://ohwen.gay"
   introMessage: ohwen.gay uptime
   navbar:
