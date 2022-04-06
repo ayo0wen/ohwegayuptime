@@ -16,10 +16,10 @@ status-website:
   cname: status.ohwen.gay
   # baseUrl: /your-repo-name
   theme: ocean
-  logoUrl: https://cdn.discordapp.com/attachments/960953474986696716/961349085896531968/0.png
+  logoUrl: https://cdn.discordapp.com/attachments/960953474986696716/961350223349833769/unknown.png
   name: ohwen.gay Status
   introTitle: "Welcome to the uptime of https://ohwen.gay"
-  introMessage: ohwen.gay uptime
+  introMessage:
   navbar:
     - title: Status
       href: /
