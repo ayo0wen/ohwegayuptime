@@ -40,19 +40,19 @@
     "url": "https://2nd.ohwen.gay",
     "icon": "https://favicons.githubusercontent.com/2nd.ohwen.gay",
     "slug": "2nd-host",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 359,
-    "timeDay": 348,
-    "timeWeek": 359,
-    "timeMonth": 359,
-    "timeYear": 359,
+    "status": "up",
+    "uptime": "99.45%",
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.45%",
+    "time": 365,
+    "timeDay": 384,
+    "timeWeek": 365,
+    "timeMonth": 365,
+    "timeYear": 365,
     "dailyMinutesDown": {
-      "2022-04-10": 0
+      "2022-04-10": 27
     }
   }
 ]
