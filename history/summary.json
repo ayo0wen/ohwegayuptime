@@ -4,19 +4,19 @@
     "url": "http://www.ohwen.gay",
     "icon": "https://favicons.githubusercontent.com/www.ohwen.gay",
     "slug": "main-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 473,
-    "timeDay": 614,
-    "timeWeek": 605,
-    "timeMonth": 525,
-    "timeYear": 473,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 582,
+    "timeDay": 4243,
+    "timeWeek": 1513,
+    "timeMonth": 755,
+    "timeYear": 582,
     "dailyMinutesDown": {
-      "2022-06-08": 0
+      "2022-06-08": 18
     }
   },
   {
