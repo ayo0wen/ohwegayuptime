@@ -4,9 +4,9 @@
     "url": "http://www.ohwen.gay",
     "icon": "https://favicons.githubusercontent.com/www.ohwen.gay",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 605,
     "timeMonth": 525,
     "timeYear": 473,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-08": 0
+    }
   },
   {
     "name": "Cookie Clicker Host",
